@@ -1,5 +1,9 @@
 #!/bin/bash
+echo "dit is mijn eerste wijziging"
 
+
+
+#test
 function credits() {
 clear
 echo "Dit Script is gemaakt door Anouk, met wat hulp van deze persoon (simpel geëncrypt): z9AQCsteq4scsbDyo68D9YOF07ouSjFPwRIc+tI2EsY="
